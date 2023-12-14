@@ -10,8 +10,7 @@
 
 ## :pushpin: Contact
 - 이메일: monyuaid@gmail.com
-- 블로그: 
-- 깃헙: https://github.com/Monyua
+- 깃허브: https://github.com/Monyua
 
 </br>
 
@@ -21,7 +20,7 @@
 >개발 기간: 2023.10.01 ~ 2023.11.05  
 >  
 >기술 스택:  
->Java 8 / JS / Oracle / 
+>Java 8 / JS / Oracle
 >
 >  
 >[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/SNSRepo) 참고
